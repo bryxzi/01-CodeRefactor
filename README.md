@@ -11,6 +11,7 @@ In this project we are refactoring the code written for the marketing agency whi
 ## Deployment Link
 
 [Repository] https://github.com/bryxzi/01-CodeRefactor
+[LiveDeploymentLink] https://bryxzi.github.io/01-CodeRefactor/#search-engine-optimization
 
 ## User Story
 
